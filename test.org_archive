@@ -1,0 +1,19 @@
+* DONE Testnode 1
+  CLOSED: [2018-10-22 Mon 10:24]
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2018-10-22 Mon 10:24
+  :ARCHIVE_FILE: todo.org
+  :ARCHIVE_OLPATH: Category 1
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :END:
+
+* DONE Testnode 2                                                      :alex:
+  CLOSED: [2018-10-22 Mon 10:28]
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2018-10-22 Mon 10:28
+  :ARCHIVE_FILE: todo.org
+  :ARCHIVE_OLPATH: Category 2
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :END:
